@@ -1,0 +1,15 @@
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.csproj.AssemblyReference.cache
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.AssemblyInfoInputs.cache
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.AssemblyInfo.cs
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.csproj.CoreCompileInputs.cache
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\bin\Debug\net6.0\DecoratorPatternExemplo.exe
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\bin\Debug\net6.0\DecoratorPatternExemplo.deps.json
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\bin\Debug\net6.0\DecoratorPatternExemplo.runtimeconfig.json
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\bin\Debug\net6.0\DecoratorPatternExemplo.dll
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\bin\Debug\net6.0\ref\DecoratorPatternExemplo.dll
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\bin\Debug\net6.0\DecoratorPatternExemplo.pdb
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.dll
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\ref\DecoratorPatternExemplo.dll
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.pdb
+C:\Sistemas\c#\DecoratorPatternExemplo\DecoratorPatternExemplo\obj\Debug\net6.0\DecoratorPatternExemplo.genruntimeconfig.cache
