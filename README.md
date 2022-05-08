@@ -2,15 +2,11 @@
  
 Decorator, wrapper, é um padrão de projeto de software que permite adicionar um comportamento a um objeto já existente em tempo de execução, ou seja, agrega dinamicamente responsabilidades adicionais a um objeto. Decorators oferecem uma alternativa flexível ao uso de herança para estender uma funcionalidade, com isso adiciona-se uma responsabilidade ao objeto e não à classe.
 ***
-## Motivação
-O Decorator surgiu da necessidade de adicionar um comportamento, funcionalidade ou estado extra a um objeto em tempo de execução, por exemplo quando Herança não é concebível por ser um caso que geraria um número muito alto de sub-classes.
-Suponha que existe um objeto Pizza, ela pode ter comportamentos diferentes dependendo dos seus ingredientes. Imagine criar agora uma sub classe para cada combinação possível de seus ingredientes, o número de classes aumenta exponencialmente para cada opção a mais que você tiver. É ai que entra o Decorator.
-São diversos os exemplos nos sistemas que usamos no dia-a-dia, cuja função é adicionar responsabilidades e comportamentos à um objeto dinamicamente e que sem esse padrão, a capacidade de personalizar e editar classes tornaria-se inviável.
+## Problema
+O Decorator surgiu da necessidade de adicionar um comportamento, funcionalidade ou estado extra a um objeto em tempo de execução, por exemplo quando Herança não é concebível por ser um caso que geraria um número muito alto de sub-classes. Suponha que existe um objeto Pizza, ela pode ter comportamentos diferentes dependendo dos seus ingredientes. Imagine criar agora uma sub classe para cada combinação possível de seus ingredientes, o número de classes aumenta exponencialmente para cada opção a mais que você tiver. É aí que entra o Decorator. São diversos os exemplos nos sistemas que usamos no dia-a-dia, cuja função é adicionar responsabilidades e comportamentos a um objeto dinamicamente e que sem esse padrão, a capacidade de personalizar e editar classes tornaria-se inviável.
 ***
-## Consequências
-O Decorator resolve problemas que a herança gera em determinados momentos, em que classes precisam ser muitos especificadas e detalhas de diferentes formas gerando excessivas subclasses. Nestes momentos o decorator é aplicado. Diminuindo drasticamente as classes geradas e permitindo flexibilidade aos atributos e métodos.
-Isto acontece, pois, a solução por de trás deste padrão é encapsular o objeto original dentro de uma interface. Ambos os objetos decorator e o objeto principal herdam essa interface. A interface utiliza composição recursiva para permitir que os ilimitados números de “decorações” possam ser adicionados ao objeto principal.
-Esta solução traz ao projeto uma flexibilidade maior, em que pode se adicionar ou remover responsabilidades sem que seja necessário editar o código-fonte, alta coesão e fraco acoplamento.
+## Solução
+O Decorator resolve problemas que a herança gera em determinados momentos, em que classes precisam ser muito especificadas e detalhadas de diferentes formas, gerando excessivas subclasses. Nestes momentos o decorator é aplicado. Diminuindo drasticamente as classes geradas e permitindo flexibilidade aos atributos e métodos. Isto acontece, pois, a solução por de trás deste padrão é encapsular o objeto original dentro de uma interface. Ambos os objetos decorator e o objeto principal herdam essa interface. A interface utiliza composição recursiva para permitir que os ilimitados números de “decorações” possam ser adicionados ao objeto principal. Esta solução traz ao projeto uma flexibilidade maior, em que pode se adicionar ou remover responsabilidades sem que seja necessário editar o código-fonte, alta coesão e fraco acoplamento.
 ***
 ## Aplicabilidade
 Acrescentar ou remover responsabilidades a objetos individuais dinamicamente, de forma transparente
